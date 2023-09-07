@@ -1,0 +1,11 @@
+{
+  "name": "fphub-redirect-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Juraj Uhlar",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
